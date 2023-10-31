@@ -15,25 +15,25 @@ function App() {
         <Heading />
         <div className="divider" style={{marginTop: "10px", marginBottom: "10px"}}></div>
         <div className="cv-info-container">
-          <Section title="Educación" className="section-education">
+          <Section title="Education" className="section-education">
             {
               myData.education?.map(item => <EducationCard key={item.id} {...item} />)
             }
           </Section>
-          <Section title="Experiencia Laboral" className="section-workexperience">
+          <Section title="Work experience" className="section-workexperience">
             {
               myData.workExperience?.map(item => <WorkExperienceCard key={item.id} {...item} />)
             }
           </Section>
-          <Section title="Logros y reconocimientos" className="section-recognitionscard">
+          <Section title="Recognitions" className="section-recognitionscard">
             {
               myData.recognitions?.map(item => <RecognitionsCard key={item.id} {...item} />)
             }
           </Section>
-          <Section title="Herramientas y habilidades" className="section-skills">
+          <Section title="Tools and skills" className="section-skills">
               <SkillsCard skills={myData.skills} />
           </Section>
-          <Section title="Cursos y certificaciones" className="section-courses">
+          <Section title="Courses and certifications" className="section-courses">
           {
               myData.courses?.map(item => <CourseCard key={item.id} {...item} />)
             }

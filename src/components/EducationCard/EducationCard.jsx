@@ -13,7 +13,7 @@ export const EducationCard = (props) => {
           {period}
         </StyledText>
         <StyledCardBody>
-          <StyledText style={{fontWeight:'bold'}}>{average ? (title + " - Promedio: " + average):(title)}</StyledText>
+          <StyledText style={{fontWeight:'bold'}}>{average ? (title + " - Average: " + average):(title)}</StyledText>
           <StyledText>{institution}</StyledText>
           <StyledText>{location}</StyledText>
         </StyledCardBody>

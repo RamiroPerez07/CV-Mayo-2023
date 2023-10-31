@@ -12,8 +12,8 @@ export const Heading = () => {
           <StyledTitle>{myData.personalInfo.name}</StyledTitle>
           <ul>
             <StyledLi>{myData.personalInfo.professions.primary+" - "+myData.personalInfo.professions.secondary}</StyledLi>
-            <StyledLi>{"Fecha de nacimiento: "+myData.personalInfo.birthdate}</StyledLi>
-            <StyledLi>{"Email: "+myData.personalInfo.email + " | Celular: "+myData.personalInfo.cellphone}</StyledLi>
+            <StyledLi>{"Birthdate: "+myData.personalInfo.birthdate}</StyledLi>
+            <StyledLi>{"Email: "+myData.personalInfo.email + " | Cellphone: "+myData.personalInfo.cellphone}</StyledLi>
             <StyledLi>{myData.personalInfo.location}</StyledLi>
             <StyledLi>{"Linkedin: "+myData.personalInfo.socialNetworks.linkedin + "  |  Github: " + myData.personalInfo.socialNetworks.github}</StyledLi>
           </ul>

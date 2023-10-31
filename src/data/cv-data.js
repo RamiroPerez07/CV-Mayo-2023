@@ -5,7 +5,7 @@ export const myData = {
     dni: "40.189.517",
     birthdate: "02/04/1997",
     professions: {
-      primary: "Ingeniero Industrial",
+      primary: "Industrial Engineer",
       secondary: "React Developer"
     },
     cellphone: "336-4512634",
