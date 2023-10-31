@@ -12,7 +12,7 @@ export const CourseCard = (props) => {
           {period}
         </StyledText>
         <StyledCardBody>
-          <StyledText /*style={{fontWeight:'bold'}}*/>{(hours ? (title + " - Duración: " + hours):(title))+" - "+institution}</StyledText>
+          <StyledText /*style={{fontWeight:'bold'}}*/>{(hours ? (title + " - Duration: " + hours):(title))+" - "+institution}</StyledText>
         </StyledCardBody>
       </StyledCard>
     </>
