@@ -43,7 +43,7 @@ export const myData = {
       period: "12/2021 - 01/2022",
       company: "LOBERAZ SA (Construction Company)",
       position: "Project Scheduling Analyst",
-      description: "Monitoring of activities in MS Project"
+      description: "Monitoring of activities in MS Project."
     },
     {
       id: 5,
@@ -57,14 +57,14 @@ export const myData = {
       period: "04/2022 - 02/2023",
       company: "MARK SA (Chicken Refrigerator)",
       position: "Management control and reporting",
-      description: "Cost control and development of KPI (key performance indicators)"
+      description: "Cost control and development of KPI (key performance indicators)."
     },
     {
       id: 7,
       period: "02/2023 - Now",
       company: "TERNIUM (Steel Company)",
       position: "Industrial Engineer",
-      description: "Report automation in Python and loading of engineering orders"
+      description: "Report automation in Python and loading of engineering orders."
     },
   ].reverse(),
   education : [
