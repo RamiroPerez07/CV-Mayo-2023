@@ -10,7 +10,7 @@ export const myData = {
     },
     cellphone: "336-4512634",
     email: "ramiperez1997@hotmail.com",
-    location: "San Nicolás de los Arroyos, Bs As, AR",
+    location: "San Nicolás, Buenos Aires, Argentina",
     socialNetworks: {
       linkedin: "https://www.linkedin.com/in/ramiroperez97",
       github: "https://github.com/RamiroPerez07",
@@ -20,119 +20,121 @@ export const myData = {
     {
       id: 1,
       period: "12/2014 - 03/2015",
-      company: "GENERICOS SAN NICOLAS SRL",
-      position: "Recepción y depósito",
-      description: "Control de calidad y cantidad de la mercadería. Generación y actualización de códigos en sistema de gestión. Centrol de parámetros de calidad según ANMAT."
+      company: "GENERICOS SRL (Pharmaceutical Company)",
+      position: "Merchandise Receptionist",
+      description: "Control of quality and quantity of merchandise."
     },
     {
       id: 2,
       period: "11/2020 - 02/2021",
-      company: "SABECORT GNC - VAYMSA",
-      position: "Administrativo",
-      description: "Atención al público. Carga de datos en sistema de gestión. Navegación WEB y consultas vehiculares en Enargas. Gestión de trámites de renovación de oblea, prueba hidráulica y servicio técnico. Asesoramiento referente a sistemas de GNC."
+      company: "SABECORT - VAYMSA (Gas Company)",
+      position: "Administrative",
+      description: "Atención al público. Carga de datos."
     },
     {
       id: 3,
       period: "02/2021 - 12/2021",
-      company: "GENERICOS SAN NICOLAS SRL",
-      position: "Comprador / Asistente comercial",
-      description: "Gestión de compras (Elaboración de órdenes de compra, comparativas de precio, comunicación con proveedores y seguimiento de pedidos). Estudio de indicadores de stock (punto de pedido, cantidad óptima de pedido, stock de seguridad). Control de gestión y analisis de KPI."
+      company: "GENERICOS SRL (Pharmaceutical Company)",
+      position: "Buyer",
+      description: "Order management and dealing with suppliers."
     },
     {
       id:4,
       period: "12/2021 - 01/2022",
-      company: "LOBERAZ SA",
-      position: "Analista de programación de proyectos",
-      description: "Programación de actividades de obra y mantenimiento de equipos industriales en MS Project. Trabajé particularmente para un proyecto en Planta Serviacero III, Ramallo (reemplazo de carro de PG-303). Gestión de materiales y personal de obra (entrada y salida de personal, confección de parte diario)."
+      company: "LOBERAZ SA (Construction Company)",
+      position: "Project Scheduling Analyst",
+      description: "Monitoring of activities in MS Project"
     },
     {
       id: 5,
       period: "03/2022 - 04/2022",
-      company: "PETROLERA DEGAB SA",
-      position: "Administrativo de logística - Ingeniero Industrial",
-      description: "Organización del transporte de combustibles en camiones cisterna. Comunicación con proveedores de servicios logísticos. Cálculo de pérdida de carga en cañerías para dimensionamiento de bombas."
+      company: "DEGAB SA (Oil Company)",
+      position: "Logistics Administrative",
+      description: "Transportation organization and agreement with suppliers."
     },
     {
       id: 6,
       period: "04/2022 - 02/2023",
-      company: "FRIGORIFICO MARK SA",
-      position: "Analista de control de gestión y reporting",
-      description: "Análisis de indicadores KPI. Confección de Estado de Resultado (EERR). Colaboración en la implementación e identificación de mejoras en procesos SAP B1. Análisis de costos."
+      company: "MARK SA (Chicken Refrigerator)",
+      position: "Management control and reporting",
+      description: "Cost control and development of KPI (key performance indicators)"
     },
     {
       id: 7,
-      period: "02/2023 - Act.",
-      company: "TERNIUM (contratado por SEINSA)",
-      position: "Analista de programación de proyectos de ingeniería",
-      description: "Oficina técnica. Programación de proyectos de ingeniería. Automatización de reportes y diagramas de Gantt utilizando Excel, Power Query, MS Project, Visual Basic for Applications y Power BI. Carga de pedidos de ingeniería."
+      period: "02/2023 - Now",
+      company: "TERNIUM (Steel Company)",
+      position: "Industrial Engineer",
+      description: "Report automation in Python and loading of engineering orders"
     },
   ].reverse(),
   education : [
       {
         id: 1,
         period: "2009-2014",
-        title: "Bachiller en Economía y Administración",
+        title: "Bachelor in Economics and Administration",
         average: 9.72,
-        institution: "Colegio de la Ciudad",
-        location: "San Nicolás de los Arroyos, Bs As, AR",
+        institution: "City School",
+        location: "San Nicolás, Buenos Aires, Argentina",
       },
       {
         id: 2,
         period: "2009-2014",
-        title: "Inglés Académico - Graduado",
+        title: "Academic English - Graduate",
         average: null,
-        institution: "Jean Peaget - Centro de Idiomas y Computación",
-        location: "San Nicolás de los Arroyos, Bs As, AR",
+        institution: "Jean Peaget",
+        location: "San Nicolás, Buenos Aires, Argentina",
       },
       {
         id: 3,
         period: "2015-2020",
-        title: " Ingeniero Industrial - Graduado Universitario",
+        title: " Industrial Engineer - University graduate",
         average: 9.66,
-        institution: "Universidad Tecnológica Nacional - Facultad Regional San Nicolás",
-        location: "San Nicolás de los Arroyos, Bs As, AR",
+        institution: "National Technological University",
+        location: "San Nicolás, Buenos Aires, Argentina",
       },
       {
         id: 4,
         period: "2022-2023",
-        title: "Programador - Full Stack Web Developer - Stack MERN",
+        title: "Programmer - Full Stack Web Developer - MERN Stack",
         average: null,
         institution: "NUCBA",
-        location: "Modalidad Virtual",
+        location: "Virtual course",
       },
   ].reverse(),
   recognitions : [
     {
       id:1,
       period: "2019",
-      title: "Abanderado de la UTN",
-      description: "Promedio: 9.66 - Ing. Industrial",
+      title: "University Standard-bearer",
+      description: "Average: 9.66 - Industrial Engineer",
     },
     {
       id:2,
       period: "2021",
-      title: "Premio Nacional de Ingeniería 'Ing. Isidoro Marín'",
-      description: "Academia Nacional de Ingeniería",
+      title: "National Engineering Award 'Ing. Isidoro Marín'",
+      description: "National Academy of Engineering",
     },
   ].reverse(),
   skills: [
-    "Paquete Office Avanzado (Excel, Word, Access, PowerPoint, Project)",
-    "Programación Web (HTML, CSS, Javascript, React, NodeJS)",
-    "Lenguajes de programación (JS, Java, Python, VBA, R)",
-    "Sistemas de Gestión (SAP B1 Business One)",
-    "Reportes (Power BI, Excel, Power Query)",
-    "Bases de datos - SQL (MySQL, SQLite, PostgreSQL)",
+    "Advance microsoft office package (Excel, Word, Access, PowerPoint, Project)",
+    "Web development (HTML, CSS, Javascript, React, NodeJS)",
+    "Programming Languages (JS, Java, Python, VBA, R)",
+    "Management Systems (SAP B1 Business One)",
+    "Reports (Power BI, Excel, Power Query)",
+    "Databases - SQL (MySQL, SQLite, PostgreSQL)",
+    "Data manipulation with Python (Pandas)",
+    "Operative Investigation: Linear Programming, Simulation and Machine Learning",
   ],
   courses: [
     {
       period: "02/2022",
-      title: "Computer Vision y Machine Learning con Python 2021",
+      title: "Computer Vision and Machine Learning with Python 2021",
       hours: "14.5 h",
       institution: "Udemy"
     },
     {
       period: "01/2022",
-      title: "Curso Restfull Java Spring Boot",
+      title: "Restfull Java Spring Boot",
       hours: "8.5 h",
       institution: "Udemy"
     }
