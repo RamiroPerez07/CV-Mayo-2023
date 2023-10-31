@@ -116,13 +116,13 @@ export const myData = {
     },
   ].reverse(),
   skills: [
-    "Advance microsoft office package (Excel, Word, Access, PowerPoint, Project)",
-    "Web development (HTML, CSS, Javascript, React, NodeJS)",
+    "Advance Microsoft Office Package (Excel, Word, Access, PowerPoint, Project)",
+    "Web Development (HTML, CSS, Javascript, React, NodeJS)",
     "Programming Languages (JS, Java, Python, VBA, R)",
     "Management Systems (SAP B1 Business One)",
     "Reports (Power BI, Excel, Power Query)",
     "Databases - SQL (MySQL, SQLite, PostgreSQL)",
-    "Data manipulation with Python (Pandas)",
+    "Data Manipulation with Python (Pandas)",
     "Operative Investigation: Linear Programming, Simulation and Machine Learning",
   ],
   courses: [
