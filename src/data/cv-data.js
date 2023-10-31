@@ -111,7 +111,7 @@ export const myData = {
     {
       id:2,
       period: "2021",
-      title: "National Engineering Award 'Ing. Isidoro Marín'",
+      title: "National Engineering Award 'Isidoro Marín'",
       description: "National Academy of Engineering",
     },
   ].reverse(),
