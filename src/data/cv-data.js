@@ -29,7 +29,7 @@ export const myData = {
       period: "11/2020 - 02/2021",
       company: "SABECORT - VAYMSA (Gas Company)",
       position: "Administrative",
-      description: "Atención al público. Carga de datos."
+      description: "Customer service and administrative tasks."
     },
     {
       id: 3,
@@ -123,7 +123,7 @@ export const myData = {
     "Reports (Power BI, Excel, Power Query)",
     "Databases - SQL (MySQL, SQLite, PostgreSQL)",
     "Data Manipulation with Python (Pandas)",
-    "Operative Investigation: Linear Programming, Simulation and Machine Learning",
+    "Operations Research: Linear Programming, Simulation and Machine Learning",
   ],
   courses: [
     {
